@@ -1,0 +1,8 @@
+node_modules/
+.env
+single-post.handlebars
+signup.handlebars
+edit-user.handlebars
+edit-post.handlebars
+post-info.handlebars
+style.css
